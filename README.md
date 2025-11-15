@@ -19,10 +19,6 @@ To obtain empirical force values necessary for final dimensioning, custom **supp
 ### 3. Support Optimization
 The main ARB support, which connects the pin and the suspensions, was optimized using **nTopology**. **Topology optimization** was performed to minimize material while maintaining structural integrity. The final design was validated through a static analysis to ensure stresses remained within safe limits (below $200~MPa$) and confirmed with a secondary verification using **Ansys**.
 
----
-
-## Interface Hand Kart Development
-
 ### 4. Interface Hand Kart
 This project focused on developing a **modular, easily transportable interface** for the car's battery management cart, replacing a cumbersome system that lacked on-board control. The design, executed in Inventor, included a new sheet metal panel to integrate essential controls and an **LCD screen** for direct battery status monitoring, significantly improving efficiency during tests and races.
 
